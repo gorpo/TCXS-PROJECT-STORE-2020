@@ -124,7 +124,7 @@ Pedimos que somente realize sua doação após ler esta documentação e estar d
 - sistema de login reconhece usuario, ip e aparelho conectado<br>
 - caso links tentem ser acessados sem estar logado o usuario é levado para uma pagina de aviso<br>
 - somente usuarios logados conseguem acessar os links da loja<br>
-- somente pode ser feito download via console PLAYSTATION3, safa exceção do plugin gorpo.js desabilitado<br>
+- somente pode ser feito download via console PLAYSTATION3, safa exceção desabilitado<br>
 - sistema de banimento automatico apos 30 dias incluso no codigo<br>
 <br>
 <h1> Demonstração:</h1><br>
